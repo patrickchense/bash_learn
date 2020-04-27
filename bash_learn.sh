@@ -1,3 +1,4 @@
+#!/bin/bash
 
 function show_menu() {
 echo "Bash Learning Guide:
